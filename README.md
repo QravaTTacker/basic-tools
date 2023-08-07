@@ -1,62 +1,42 @@
 <div id="intro" align="center">
       <a href="#intro" title=" ">
             <img alt="Capsule Render" width="100%"
-            src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=header&text=Basic+Tools&fontSize=50&animation=fadeIn"/>
+            src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=header&text=Ferramentas+Básicas&fontSize=50&animation=fadeIn"/>
+      </a><br/>
+       <a href="#intro" title=" ">
+            <img alt=": Press F5"
+            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Linha+de+Comando;Módulos+e+Gerenciadores;Ediores+e+Linguagens"/>
+      </a>
+      <a href="#intro" title="Winfetch no powershell">
+            <img width="700px" alt="PowerShell" src="assets/powershell.png"/>
       </a>
 </div>
 
-## ___Ferramentas que serão Instaladas___ (temporário):
+## **_Ferramentas que serão Instaladas_**:
 
-### Shell + Terminal
+### I. Programas Base
+
 - Windows Terminal
-- Power Shell Core
-
-### Package Managers
+- Power Shell +7.0.0
 - Winget
-- Choco
+- Visual Studio Code
+- Neo Vim
 
-### Custom Terminal
-- Nerd Font
-- Theme Terminal
-- Config .json
+### II. Customizando o Terminal
 
-### Install Modules
+- Fontes
+- Tema de cores
 - Oh My Posh
 - Terminal Icons
-- ReadLine
-- History
-- Config $PROFILE (Aliases, Functions and modules)
+- PSReadLine
+- Config Settings.json
+- Config $PROFILE
 
-### Install Softwares
-- Neo Vim
+### IV. Softwares Extras
+
 - Git
-- GCC/LLVM, Python, JDK, PHP, NodeJs
-- WSL + Linux
-
-### Extras Softwares
-- Power Toys
-- Visual Studio Code
 - GitHub Desktop
-
-### Extra Configurations
-- Vs Code (Extensions + settings.json)
-- Neo Vim (Extensions + .config)
-- WSL + Linux (ZSH)
-
-### Basic Command Lines
-- CMD
-- Power Shell Core
-- Bash/ZSH
-
-### Git + GitHub
-- Basic Git
-- GitHub (Web + Desktop)
-- Licences
-
-### Logic of Programming and Algorithms
-- Programming Languages
-- Interpreters and Compilers
-- Code Editor and IDEs
-- Type of Programming Jobs
-- Pseudocode (Portugol + Visualg)
-
+- WSL + Linux
+- Python, NodeJS, GCC/LLVM, JDK, PHP etc.
+- Power Toys
+- ZoomIt
