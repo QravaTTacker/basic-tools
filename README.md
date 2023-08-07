@@ -22,7 +22,7 @@
 - Visual Studio Code
 - Neo Vim
 
-### II. Customizando o Terminal
+### II. Customizando o Terminal 
 
 - Fontes
 - Tema de cores
@@ -32,7 +32,7 @@
 - Config Settings.json
 - Config $PROFILE
 
-### IV. Softwares Extras
+### III. Softwares Extras
 
 - Git
 - GitHub Desktop
